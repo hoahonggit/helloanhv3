@@ -2,5 +2,5 @@
     "appId":"com.neighbor.alpha.fjfnn",
     "isLive":true,
     "moveId":"com.test.moveid",
-    "isShowInter": false
+    "isShowInter": true
 }
